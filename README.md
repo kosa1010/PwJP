@@ -3,7 +3,8 @@ Programowanie w języku Python
 # Dokumentacja projetu: ** Temat projektu**
 
 ## Zespoł projetowy:
-_Mirosław Gągorzelewski_ \\
+_Mirosław Gągorzelewski_ 
+
 _Grażyna Zeszczecina_
 
 ## Opis projektu
