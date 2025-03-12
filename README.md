@@ -4,6 +4,7 @@ Programowanie w języku Python
 
 ## Zespoł projetowy:
 _Mirosław Gągorzelewski
+
 Grażyna Zeszczecina_
 
 ## Opis projektu
